@@ -14,10 +14,6 @@ This repository contains materials used in the course taught at the [IMC Univers
 - `el1_zotero.md` – 🔗 [Electronic learning session 1](https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/el1_zotero) on managing literature with Zotero
 - `README.md` – This file
 - `syllabus.pdf` – Course description and learning outcomes  
-- [`el1_zotero_bib_v1.pdf`](el1_zotero_bib_v1.pdf) — Example bibliography for [Electronic Learning Session 1](https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/el1_zotero)  
-- [`el1_zotero.md`](el1_zotero.md) — [Electronic Learning Session 1](https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/el1_zotero) on managing literature with Zotero  
-- [`README.md`](README.md) — This file  
-- [`syllabus.pdf`](syllabus.pdf) — Course description and learning outcomes
 
 ---
 
