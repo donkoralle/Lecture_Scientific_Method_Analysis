@@ -27,7 +27,7 @@ This repository contains materials used in the course taught at the [IMC Univers
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 - **Version:** v1.0 (October 2025)  
-- **DOI:** XXX
+- **DOI:** [10.5281/zenodo.17348844](https://doi.org/10.5281/zenodo.17348844)
 - **Keywords:** scientific method, research design, data analysis, reproducibility, ethics in research
 
 ---
