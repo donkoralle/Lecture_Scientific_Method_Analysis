@@ -6,7 +6,13 @@ This repository contains materials used in the course taught at the [IMC Univers
 
 ## 🗂️ Contents
 
+- `_includes_/` – HTML includes for Jekyll-based rendering of materials
+- `assets/` – Images and other assets used in Github pages
 - `slides/` – PowerPoint slides (.pptx) used in contact hours  
+- `_config.yml` – Configuration file for Jekyll-based rendering of Github pages
+- `el1_zotero_bib_v1.pdf` – Example bibliography for electronic learning session 1
+- `el1_zotero.md` – Electronic learning session 1 on managing literature with Zotero
+- `README.md` – This file
 - `syllabus.pdf` – Course description and learning outcomes  
 
 ---
