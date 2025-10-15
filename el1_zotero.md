@@ -4,15 +4,15 @@ author: Kami Hoferl
 date: 2025-10-12
 layout: page
 ---
-# Welcome to the Electronic Learning (EL) Session 1!
+# Electronic Learning Session 1: Managing Literature with Zotero
 
-In this unit you will:
+Welcome! In this session you will:
 
 * Learn how to install and user Zotero for managing your literature;
 * Practice searching for and storing literature in Zotero;
 * Create a bibliography in APA style.
 
-**👉 Just one last thing:** Before you move on, open a Word document to reflect on your learning experience or answer some questions that will be posed to you during the session. This document will be further referenced as reflection document. The reflection document 
+**👉 Just one more thing:** Before you move on, open a Word document to reflect on your learning experience or answer some questions that will be posed to you during the session. This document will be further referenced as reflection document. The reflection document 
 
 * does not need to have a complete title page - just put your name and student-ID on top of it and give it a title like "Reflections on the Electronic Learning Session 1"
 * needs on each page a footer with page numbers and a header with your name on it.
