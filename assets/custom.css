@@ -1,6 +1,6 @@
 /* Round images inside the main markdown container that Primer uses */
 .markdown-body img:not(.emoji) {
-  border-radius: 12px !important;
+  border-radius: 8px !important;
   overflow: hidden;
   display: inline-block;
   max-width: 100%;
