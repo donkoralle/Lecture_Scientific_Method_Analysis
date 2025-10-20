@@ -6,3 +6,14 @@ plugins:
 
 # Markdown-Engine
 markdown: kramdown
+
+# Add your custom CSS override
+include:
+  - assets
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      include: head-custom.html
