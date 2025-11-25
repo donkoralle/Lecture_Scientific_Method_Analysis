@@ -241,32 +241,17 @@ To ensure **clear, logical and well-supported argumentation**, focus on the foll
 -   **Critical appraisal of the literature**\
     Literature should not be taken as fact; authors must engage with it critically and reflectively. Sometimes different sources may present conflicting views - these should be discussed rather than ignored.
 
-# XXX. Time for a Interim Conclusion
-
-<audio controls preload="none">
-  <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-[text](assets/img/v1_The_Five_Rules.m4a)
-
-
-<video controls="" autoplay="" name="media">
-    <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
-</video>
-
-<video controls autoplay="none" name="media2">
-    <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
-</video>
-
 # 2. Time for an Interim Conclusion
 
 Sooooo, this was quite a lot of information to take in at once. 
 
 ![Too much information!](/assets/img/too_much.gif)
 
+Then let's briefly recap the **five quality criteria** we just discussed. And since we are a little bit tired by now, we do this in a more relaxed way – with a short audio clip:
 
-
+<video controls preload="none" name="media">
+    <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
+</video>
 
 # 3. Reviewing and Grading a Seminar Paper 
 
