@@ -9,36 +9,40 @@ layout: page
 
 This self-guided e-learning activity prepares you to **critically review a seminar paper** using a transparent set of assessment criteria.
 
-🤔 But wait: Shouldn't we first learn how to *write* a seminar paper?
+**🤔 But wait: Shouldn't we first learn how to *write* a seminar paper?**
 
-In this exercise, we take a *reverse approach* to learning how to write a seminar paper. Instead of starting with general writing guidelines, you will first explore the **assessment criteria** that your final seminar papers will be evaluated against. By seeing what counts as high-quality academic work from the reviewer’s perspective, you will gain a clearer understanding of how to structure your own paper, which elements to prioritise, and how to avoid common pitfalls. In other words: by learning how to **review** a seminar paper, you also learn how to **write** a strong one. This “review-first” method helps you recognise good academic practice more quickly and apply it directly to your own work.
+In this exercise, we take a **reverse approach** to learning how to write a seminar paper. Instead of starting with general writing guidelines, you will first explore the **assessment criteria** that your final seminar papers will be evaluated against. By seeing what counts as high-quality academic work from the reviewer’s perspective, you will gain a clearer understanding of how to structure your own paper, which elements to prioritise, and how to avoid common pitfalls. 
 
-After completing this activity, you will be able to
+In other words: by learning how to **review** a seminar paper, you also learn how to **write** a strong one. This “review-first” method helps you recognise good academic practice more quickly and apply it directly to your own work.
 
--   identify key quality criteria of a seminar paper\
--   apply formal assessment criteria to a concrete example\
--   justify your review and grading decisions in a transparent and structured way
--   use these insights to improve your own seminar paper writing skills
+After completing this session, you will be able to
 
-# 1. Reviewing Seminar Papers – Assessment Criteria
+-   identify **key quality criteria** of a seminar paper\
+-   apply **formal assessment **criteria to a concrete example\
+-   **justify your review** and grading decisions in a transparent and structured way
+-   use these insights to **improve your own writing skills**
 
-Let's jum into the core of this e-learning session: the **review criteria** for reviewing seminar papers. This could be useful, as you will likely be developing a seminar paper next.
+**Sounds good?** Then let's get started!
+
+![Warm Up](assets/img/warmup_1.gif)
+
+# 1. Criteria for Reviewing Seminar Papers
 
 👉 Please be aware that the criteria used in this session are **specific to seminar papers** and may differ from those used for other types of academic writing, such as research articles or theses.
 
-In this chapter, we present the detailed criteria used to assess seminar papers in this course. These criteria are designed to ensure that your work meets high academic standards and effectively communicates your research findings. in the following sections, we break down each of these 5 criteria into specific aspects that you should consider when writing and reviewing seminar papers:
+In this chapter, we present the **detailed criteria used to review and grade seminar papers** in this course. These criteria are designed to ensure that your work meets high academic standards and effectively communicates your findings. In the following chapters, we break down each of these five criteria into specific aspects that you should consider when writing and reviewing seminar papers:
 
-1.  Report design: Clear and appealing layout
-2.  Scientific formalities: Correct and consistent
-3.  Outline and general structure: Logical and coherent
-4.  Introduction and conclusion: Well-developed and coordinated
-5.  Argumentation: Clear, logical and well-supported
+**1.  Report design:** Clear and appealing layout
+**2.  Scientific formalities:** Correct and consistent
+**3.  Outline and general structure:** Logical and coherent
+**4.  Introduction and conclusion:** Well-developed and coordinated
+**5.  Argumentation:** Clear, logical and well-supported
 
 ## 1.1 Report Design: Clear and appealing layout
 
 To come up with a clear and appealing **report design**, pay attention to the following aspects:
 
-### Design of and content on the title page
+### Design of and Content on the Title Page
 
 -   **University, programme / institute**\
     This information clearly identifies the institutional context of the work and ensures formal completeness. It also signals that the paper follows the conventions of your programme.
@@ -53,7 +57,7 @@ To come up with a clear and appealing **report design**, pay attention to the fo
 -   **Graphic design: connection to the topic; visible effort**\
     The design should support readability and show that care was taken to produce a professional document. Visual elements should be relevant and not distract from the academic purpose.
 
-### Completeness and design of the main text
+### Completeness and Design of the core Text
 
 -   **Visible effort in formatting and design**\
     A well-designed document signals academic professionalism and attention to detail, both of which are indicators of quality scientific work.
@@ -70,10 +74,10 @@ To come up with a clear and appealing **report design**, pay attention to the fo
 
 To ensure **scientific formalities** are correctly and consistently applied, consider the following aspects:
 
-### Citation – formal aspects
+### Citation – Formal Aspects
 
 -   **One consistent citation style**\
-    Using a single style - like APA - throughout the paper shows discipline and avoids confusion for readers and reviewers.
+    Using a single style - like 🔗 [APA](https://apastyle.apa.org/style-grammar-guidelines/references/examples) - throughout the paper shows discipline and avoids confusion for readers and reviewers.
 -   **Correct and standardised use (in-text and bibliography)**\
     Citations should follow the rules of the chosen style precisely throughout the whole text.
 -   **Use of short references (author-year)**\
@@ -81,7 +85,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 -   **Bibliography: completeness and clear structure**\
     All cited works must appear in the bibliography, which should be organised according to the chosen style to support orientation and verification.
 
-### Citation – usage
+### Citation Usage
 
 -   **Appropriate use of direct quotations**\
     Direct quotes should only be used when the exact wording is essential, for example when definitions or very specific formulations are required.
@@ -96,7 +100,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 -   **Sufficient number of sources for the topic**\
     A well-researched paper includes enough literature to support arguments without relying on only one or two authors.
 
-### Tables, figures and maps
+### Tables, Figures and Maps
 
 -   **Correct citation of data sources, external figures and tables**\
     Any external visual material must be credited to avoid copyright violations and maintain scientific transparency.
@@ -115,7 +119,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 
 in order to achieve a **logical and coherent outline and general structure**, focus on the following aspects:
 
-### Table of contents
+### Table of Contents
 
 -   **Headings are meaningful and informative**\
     Good headings reflect the content of each section and guide the reader through the text.
@@ -124,7 +128,7 @@ in order to achieve a **logical and coherent outline and general structure**, fo
 -   **Clear “red thread” through the text and headings**\
     The central argument should unfold step by step, and the chapters should follow a logical sequence. The overall story line should become apparent from the table of contents.
 
-### Continuous text
+### Core Text
 
 -   **Reasonable balance between chapters**\
     Sections should be proportional, preventing overly long or extremely short chapters that could disrupt reading flow. As a rule of thumb, no chapter should be less than half or more than double the average chapter length.
@@ -175,19 +179,19 @@ To create a **well-developed and coordinated introduction and conclusion**, cons
 -   **Good linguistic quality**\
     The closing section should read smoothly and leave a coherent final impression.
 
-### Balance between introduction and conclusion
+### Balance between Introduction and Conclusion
 
-When reading the introduction and conclusion together, they should form a coherent pair that frames the entire paper effectively:
+When reading the introduction and conclusion together, they should form a **coherent pair** that frames the entire paper effectively:
 *  The introduction sets up the research problem, stating what questions will be answered
 *  The conclusion provides clear answers to those questions.
 
 **👉 Classical imbalances:** The conclusions answers non-stated questions, or the introduction includes questions which have not been answered in the conclusion.
 
-## 1.5 Argumentation: Clear, logical and well-supported
+## 1.5 Argumentation: Clear, Logical and Well-Supported
 
-In oder to ensure **clear, logical and well-supported argumentation**, focus on the following aspects:
+To ensure **clear, logical and well-supported argumentation**, focus on the following aspects:
 
-### Understandability
+### Readability
 
 -   **Clear and simple language**\
     Ideas should be expressed in a straightforward and accessible way, ensuring readers can follow the argumentation.
@@ -196,7 +200,7 @@ In oder to ensure **clear, logical and well-supported argumentation**, focus on 
 -   **Important terms are clearly defined and used consistently**\
     Defining concepts ensures conceptual clarity and prevents misunderstandings.
 
-### Logical structure of the main part
+### Logical Structure of the Core Text
 
 -   **Chapters build logically on each other**\
     Each chapter should contribute to developing the central argument step by step.
@@ -205,7 +209,7 @@ In oder to ensure **clear, logical and well-supported argumentation**, focus on 
 -   **Visible “red thread”**\
     A coherent line of reasoning must be identifiable throughout the paper.
 
-### Clarity of argument
+### Coherence of Argumentation
 
 -   **Interim summaries support orientation**\
     Short summaries help readers understand key insights before moving on to new sections.
@@ -216,7 +220,7 @@ In oder to ensure **clear, logical and well-supported argumentation**, focus on 
 -   **Methodological and content-related choices are justified**\
     Explaining why certain methods or sources were chosen strengthens academic credibility.
 
-### Use of cases and literature
+### Use of Cases and Literature
 
 -   **Case studies are used appropriately**\
     Cases should serve as evidence and help illustrate theoretical points. Therefore their selection must be justified.
@@ -229,31 +233,37 @@ In oder to ensure **clear, logical and well-supported argumentation**, focus on 
 
 # 2. Putting these Criteria into Practice
 
-Sooooo, this was quite a lot of information to take in at once. To help you get familiar with these criteria, we will now put them into practice by **reviewing a (fictional) seminar paper** based on the aspects discussed above. This review will form your second assignment for this course. 
+Sooooo, this was quite a lot of information to take in at once. 
+
+![Too much information!](/assets/img/too_much.gif)
+
+To help you get familiar with these criteria, we will now use them to **review and grade a (fictional) seminar paper**. 
+
+**📢 And yes: **This review and grading will be your second assignment for this course!
 
 You will work on this review in the same **groups as in Assignment 1**. If you can't remember your group members, please check the list posted in MS Teams:
-🔗 (SME_Groups.xlsx)[https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78860/Shared%20Documents/General/SME_Groups.xlsx?d=w169b342e48d741248aabfa3053363f8c&csf=1&web=1&e=ZoDb5e]
+🔗 [SME_Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78860/Shared%20Documents/General/SME_Groups.xlsx?d=w169b342e48d741248aabfa3053363f8c&csf=1&web=1&e=ZoDb5e)
 
-👉 Here is the seminar paper on "Theoretical Foundations of Circular Economy" you will be reviewing:
-**🔗 (Seminar Paper 2 Review)[el2_example_seminarpaper.pdf]**
+👉 Here is the seminar paper on "Theoretical Foundations of Circular Economy" you will be reviewing and grading:
+**🔗 [Seminar Paper 2 Review](el2_example_seminarpaper.pdf)**
 
 ### 2.1 Your next Steps
 
-You are now in the role of a **reviewer**. Your task is to review this fictional seminar paper and justify your grading based on the criteria above.
+You are now in the role of a **reviewer**. Your task is to review this fictional seminar paper and justify your grading based on the quality criteria we discussed above (cf. chapter 1).
 
-To so so, work through the following steps as a group:
+To so so, work through the **following steps** as a group:
 
 1.  **Read the seminar paper**
     -   skim the paper once to get an overall impression\
     -   then read more carefully, taking notes for each of the five dimensions
-2.  **Assess each dimension**
-    -   for each of the five dimensions
+2.  **Assess each of the five quality criteria**
+    -   for each of the five criteria
         -   discuss strengths and weaknesses\
         -   define **2–4 concrete arguments** that justify your grading referring to specific locations in the text (page / section)\
         -   agree on a score between **0 and 5 points** for each dimension
 3.  **Calculate the overall score and grade**
     -   sum up the points of all dimensions\
-    -   derive the final grade based on the grading scheme (see below)\
+    -   derive the final grade based on the grading scheme (cf. chapter 2.2 below)\
     -   add a **short overall comment** (what is particularly good, what should be improved most)
 4.  **Group reflection**
     -   how easy or difficult was it to agree on points?\
@@ -271,33 +281,33 @@ To so so, work through the following steps as a group:
 
 To calculate the final grade for the seminar paper, use the following scheme:
 
--   each of the five assessment criteria (cf. chapter XXX) is graded with **0–5 points**\
+-   each of the five quality criteria (cf. chapter 1) is graded with **0–5 points**\
 -   you sum up all points (minimum 0, maximum 25)
 -   there is **no weighting** between the assessment criteria – each counts equally\
 -   the **cut for passing is 50%** of the maximum points 
 
 This scheme results in the following relationship between overall points and grading:
 
-![Relationship between overall points and grading](/assets/img/points_grade_v1.jpg) 
+![Relationship between overall points and grading](/assets/img/points_grade_v2.jpg) 
 
 Based on this, use the following table to derive the final grade:
 
 | Points | Grade |
 | ------ | ----- |
-| 0,0    | 5     |
-| 13,0   | 4     |
-| 16,0   | 3     |
-| 19,0   | 2     |
-| 22,0   | 1     |
+| 0,0    | 5 - Insufficient / Fail   |
+| 13,0   | 4 - Sufficient / Pass     |
+| 16,0   | 3  - Satisfactory     |
+| 19,0   | 2- Good     |
+| 22,0   | 1 - Excellent     |
 
-# 3 Deliverable for Assignment 2
+# 3 Deliverable for your Second Assignment
 
 Your **written review report** should be structured according to the following template:
 
 | What?                             | Length        |
 | --------------------------------- | ------------- |
 | Cover page                        | 1 page        |
-| Recap of assignemnt & methodology | ~ 0.75 page   |
+| Recap of assignment & methodology | ~ 0.75 page   |
 | Report design                     | Max. 1/3 page |
 | Scientific formalities            | Max. 1/3 page |
 | Outline & structuring             | Max. 1/3 page |
@@ -309,9 +319,8 @@ Your **written review report** should be structured according to the following t
 As a group, please complete the following steps to finalise your review report:
 
 -   You submit **one PDF file per group**:
-    -   file name: `G1_review.pdf`, `G2_review.pdf`, … (depending on your group)\
--   Upload your file to **Teams** in the folder
-    -   `2 Assignment`
+    -   file name: `G1_review.pdf`, `G2_review.pdf`, … (depending on your group)
+-   Upload your file to **Teams** in the folder `2 Assignment`
 -   **📅 Deadline: 02.02.2025, 23:59**   
 
 > **👉 As always:**  
