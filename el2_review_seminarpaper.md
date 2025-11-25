@@ -250,6 +250,27 @@ To ensure **clear, logical and well-supported argumentation**, focus on the foll
 
 [text](assets/img/v1_The_Five_Rules.m4a)
 
+<video controls="" autoplay="" name="media">
+    <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
+</video>
+
+<video controls="" autoplay="" name="media2">
+    <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
+</video>
+
+<audio controls preload="none">
+  <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<video controls="" autoplay="" name="media">
+    <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
+</video>
+
+<video controls="" autoplay="" name="media2">
+    <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
+</video>
+
 # 2. Putting these Criteria into Practice
 
 Sooooo, this was quite a lot of information to take in at once. 
