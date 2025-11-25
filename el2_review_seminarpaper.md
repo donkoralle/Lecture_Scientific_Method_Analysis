@@ -249,16 +249,23 @@ To so so, work through the following steps as a group:
 2.  **Assess each dimension**
     -   for each of the five dimensions
         -   discuss strengths and weaknesses\
-        -   define **2–4 concrete arguments** that justify your grading refering to specific locations in the text (page / section)\
+        -   define **2–4 concrete arguments** that justify your grading referring to specific locations in the text (page / section)\
         -   agree on a score between **0 and 5 points** for each dimension
 3.  **Calculate the overall score and grade**
     -   sum up the points of all dimensions\
     -   derive the final grade based on the grading scheme (see below)\
     -   add a **short overall comment** (what is particularly good, what should be improved most)
-4.  **Group reflection (optional, but recommended)**
+4.  **Group reflection**
     -   how easy or difficult was it to agree on points?\
     -   which criteria were most important for you?\
     -   what did you learn for your **own** work?
+
+> **👉 Tips for a good review**
+> -   be **specific** – always link comments to concrete parts of the paper\
+> -   be **constructive** – phrase weaknesses as suggestions for improvement\
+> -   be **consistent** – check if your points fit your written comments\
+> -   be **fair** – use the full scale (0–5) if justified\
+> -   think of the review you would like to receive for your own work
 
 # 2.2 Overall Assessment and Grading Scheme
 
@@ -283,55 +290,9 @@ Based on this, use the following table to derive the final grade:
 | 19,0   | 2     |
 | 22,0   | 1     |
 
-# 3. Assignment 2 – Reviewing a seminar paper
+# 3 Deliverable for Assignment 2
 
-### 3.1 Scenario
-
-
-
-
-------------------------------------------------------------------------
-
-### 3.2 Materials
-
-Download the following files from the course repository / Teams:
-
--   **Seminar paper (PDF)**
-    -   `TODO: add link to seminar paper PDF here`
--   **Review template (PDF or Word)**
-    -   `TODO: add link to review template here`
-
-The review template is structured along the **five assessment dimensions** and includes space for your comments and grading.
-
-------------------------------------------------------------------------
-
-### 3.3 Your next Steps
-
-Work through the following steps as a group:
-
-1.  **Read the seminar paper**
-    -   skim the paper once to get an overall impression\
-    -   then read more carefully, taking notes for each of the five dimensions
-2.  **Assess each dimension**
-    -   for each of the five dimensions
-        -   discuss strengths and weaknesses\
-        -   define **2–4 concrete arguments** that justify your grading\
-        -   agree on a score between **0 and 5 points**
-3.  **Fill in the review template**
-    -   write **short, precise comments** for each dimension\
-    -   use bullet points and refer to **specific locations in the text** (page / section)\
-    -   enter the points in the template
-4.  **Calculate the overall score and grade**
-    -   sum up the points of all dimensions\
-    -   derive the final grade based on the grading scheme of this course\
-    -   add a **short overall comment** (what is particularly good, what should be improved most)
-5.  **Group reflection (optional, but recommended)**
-    -   how easy or difficult was it to agree on points?\
-    -   which criteria were most important for you?\
-    -   what did you learn for your **own** seminar paper?
-
-
-### 3.4 Deliverables
+Your **written review report** should be structured according to the following template:
 
 | What?                             | Length        |
 | --------------------------------- | ------------- |
@@ -343,41 +304,21 @@ Work through the following steps as a group:
 | Introduction & Conclusion         | Max. 1/3 page |
 | Argumentation                     | Max. 1/3 page |
 | Over all Impression & Points      | ~ 0.5 page    |
+| Group reflection                  | ~ 0.5 page    |
 
-
+As a group, please complete the following steps to finalise your review report:
 
 -   You submit **one PDF file per group**:
-    -   file name: `G1_review.pdf`, `G2_review.pdf`, … (depending on your group):contentReference[oaicite:7]{index="7"}\
-    -   export your completed review template as PDF
+    -   file name: `G1_review.pdf`, `G2_review.pdf`, … (depending on your group)\
 -   Upload your file to **Teams** in the folder
     -   `2 Assignment`
--   **Deadline:**
-    -   `02.02.2025, 23:59` (CET):contentReference[oaicite:8]{index="8"}
+-   **📅 Deadline: 02.02.2025, 23:59**   
 
-------------------------------------------------------------------------
+> **👉 As always:**  
+> If you have questions, bring them up in our next class of post them in MS Teams.
 
-### 3.5 Tips for a good review
+# What Now?
 
--   be **specific** – always link comments to concrete parts of the paper\
--   be **constructive** – phrase weaknesses as suggestions for improvement\
--   be **consistent** – check if your points fit your written comments\
--   be **fair** – use the full scale (0–5) if justified\
--   think of the review you would like to receive for your own work
+We are done! Congratulations for finishing this electronic learning session! 🎉
 
-------------------------------------------------------------------------
-
-### 3.6 After submission
-
-In our next session, we will
-
--   compare how different groups graded the same paper\
--   discuss typical patterns in your reviews\
--   connect your observations to the criteria used for grading your own seminar papers
-
-## What Now?
-
-Save your reflection document under your **family name (e.g. "huber.docx")** and **upload** it in the **MS Teams Folder "Electronic Learning Session 1"**.
-
-Congratulations for finishing this electronic learning session! 🎉
-
-![Clapping Captain](assets/img/clapping_picard.gif)
+![You did it!](assets/img/nod.gif)
