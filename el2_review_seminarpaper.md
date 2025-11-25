@@ -244,9 +244,11 @@ To ensure **clear, logical and well-supported argumentation**, focus on the foll
 # XXX. Time for a Interim Conclusion
 
 <audio controls preload="none">
-  <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
+  <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+[text](assets/img/v1_The_Five_Rules.m4a)
 
 # 2. Putting these Criteria into Practice
 
