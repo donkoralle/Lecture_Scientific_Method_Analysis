@@ -87,10 +87,10 @@ To ensure **scientific formalities** are correctly and consistently applied, con
     Direct quotes should only be used when the exact wording is essential, for example when definitions or very specific formulations are required.
 -   **Reasonable quantity of direct quotes**\
     Excessive quoting can weaken the author’s own argument, so quotes should be used sparingly.
--   **Appropriate use of indirect quotations / paraphrasing**\
+-   **Appropriate use of indirect quotations (aka "paraphrasing")**\
     Paraphrasing shows that the student understands the content and can integrate it into their own argument. Each paraphrased idea must still be properly referenced.
 -   **No “paragraph quotation” without clear source**\
-    Every piece of external information requires a clear citation; otherwise, academic misconduct may be suspected.
+    Every piece of external information requires a clear citation; otherwise, academic misconduct (= plagiarism) may be suspected.
 -   **Quality and scope of sources**\
     Sources should be relevant, credible and sufficiently academic. A solid range of sources shows research effort and topic familiarity.
 -   **Sufficient number of sources for the topic**\
@@ -98,63 +98,63 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 
 ### Tables, figures and maps
 
--   **Correct citation of data sources and external images**\
+-   **Correct citation of data sources, external figures and tables**\
     Any external visual material must be credited to avoid copyright violations and maintain scientific transparency.
 -   **Clear labelling (titles, axis labels, legends, figure numbers)**\
     Visuals must be understandable on their own, providing all necessary information for interpretation.
 -   **Graphic/cartographic quality and integrity**\
-    Figures should be readable and professionally formatted, without distortions or misleading visualisations.
+    Figures and maps should be readable and professionally formatted, without distortions or misleading visualisations.
 -   **Quality of underlying data**\
     Data must come from reputable sources to ensure the validity of the argumentation.
--   **Figures/tables are explained in the text and necessary for the argument**\
-    Visuals should support the narrative and never appear without discussion; they must serve a clear analytical purpose.
--   **Interpretation of figures is clear and meaningful**\
+-   **Figures and tables are explained in the text and necessary for the argument**\
+    Visuals should support the narrative and never appear without discussion. They must serve a clear analytical purpose.
+-   **Interpretation of figures, tables and maps is clear and meaningful**\
     Readers should understand how the data contributes to the research question and what conclusions can be drawn.
 
-------------------------------------------------------------------------
+## 1.3 Outline and General Structure: Logical and Coherent
 
-## 1.3 Outline and structuring
+in order to achieve a **logical and coherent outline and general structure**, focus on the following aspects:
 
 ### Table of contents
 
 -   **Headings are meaningful and informative**\
-    Good headings reflect the content of each section and guide the reader through the structure.
+    Good headings reflect the content of each section and guide the reader through the text.
 -   **Headings are coherent at each level**\
-    Hierarchical consistency makes the structure logical and prevents confusion.
--   **Clear “red thread” through the structure**\
-    The central argument should unfold step by step, and the chapters should follow a logical sequence.
+    Hierarchical consistency makes the structure logical and prevents confusion. Lower-level headings should relate clearly to their higher-level counterparts.
+-   **Clear “red thread” through the text and headings**\
+    The central argument should unfold step by step, and the chapters should follow a logical sequence. The overall story line should become apparent from the table of contents.
 
 ### Continuous text
 
 -   **Reasonable balance between chapters**\
-    Sections should be proportional, preventing overly long or extremely short chapters that could disrupt reading flow.
+    Sections should be proportional, preventing overly long or extremely short chapters that could disrupt reading flow. As a rule of thumb, no chapter should be less than half or more than double the average chapter length.
 -   **Chapters have clear internal structure**\
     Each chapter should build up logically, using paragraphs effectively to separate thoughts.
--   **Heading ↔ content: good correspondence**\
-    The text under each heading should match what the heading promises, ensuring consistency.
+-   **Headings should have a good correspondence to thier content**\
+    The text under each heading should match what the heading promises, ensuring consistency and predictability.
 -   **One paragraph = one thought**\
     This helps maintain clarity and keeps the argument focused.
 -   **Chapter length is appropriate**\
-    Chapters should be long enough to develop content but concise enough to remain readable.
+    Chapters should be long enough to develop content but concise enough to remain readable. Use subchapters if necessary to break down complex topics.
 -   **Chapter structure corresponds to research objective and questions**\
     The structure should clearly follow from what the paper aims to investigate.
 -   **Clear separation of “presentation of content” and “discussion of content”**\
-    Presenting theory is not the same as analysing or critiquing it; keeping these separate helps academic rigour.
+    Presenting theory or empiric results is not the same as analysing or critiquing it. Keeping these separate - putting them in different chapters - helps academic rigour and allows readers to critically assess the argumentation.
 
-------------------------------------------------------------------------
+## 1.4 Introduction and Conclusion: Well-developed and Coordinated
 
-## 1.4 Introduction and conclusion
+To create a **well-developed and coordinated introduction and conclusion**, consider the following aspects:
 
 ### Introduction
 
 -   **Introduces the topic and motivates the study**\
     A strong introduction explains why the topic matters and why it is worth exploring academically.
 -   **Coherent presentation of the context**\
-    Background information provides the necessary framing for the reader and prepares them for the research focus.
+    Background information provides the necessary framing for the reader and prepares them for the research objectives and questions.
 -   **Clear, well-formulated research objective**\
     The objective tells the reader what the paper intends to achieve academically.
 -   **Clear, well-formulated research question(s)**\
-    Research questions guide the structure and analysis; they must be precise and answerable.
+    Research questions guide the structure and analysis. They must be precise and answerable.
 -   **Brief outlook on the structure of the paper**\
     This serves as a “roadmap” that helps readers anticipate what comes next.
 -   **Good linguistic quality**\
@@ -163,7 +163,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 ### Conclusion
 
 -   **Provides a concise general framing of the work**\
-    The conclusion briefly summarises the key argument and reflects on the paper’s scope.
+    The conclusion briefly summarises key arguments and reflects on the paper’s aim.
 -   **Does not introduce new findings or literature**\
     Conclusions should synthesise what has been said, not add unexpected new information.
 -   **Clearly addresses the research objective and questions**\
@@ -175,17 +175,25 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 -   **Good linguistic quality**\
     The closing section should read smoothly and leave a coherent final impression.
 
-------------------------------------------------------------------------
+### Balance between introduction and conclusion
 
-## 1.5 Argumentation
+When reading the introduction and conclusion together, they should form a coherent pair that frames the entire paper effectively:
+*  The introduction sets up the research problem, stating what questions will be answered
+*  The conclusion provides clear answers to those questions.
+
+**👉 Classical imbalances:** The conclusions answers non-stated questions, or the introduction includes questions which have not been answered in the conclusion.
+
+## 1.5 Argumentation: Clear, logical and well-supported
+
+In oder to ensure **clear, logical and well-supported argumentation**, focus on the following aspects:
 
 ### Understandability
 
--   **Clear, simple language**\
-    Ideas should be expressed in a straightforward and accessible way, ensuring readers can follow the logic.
+-   **Clear and simple language**\
+    Ideas should be expressed in a straightforward and accessible way, ensuring readers can follow the argumentation.
 -   **Reasonable sentence length**\
-    Avoiding overly long sentences helps maintain clarity and reduces the risk of confusion.
--   **Important terms are defined and used consistently**\
+    Avoiding overly long sentences helps maintain clarity and reduces the risk of confusion. Again, as a rule of thumb: sentences should in general not exceed two lines of text.
+-   **Important terms are clearly defined and used consistently**\
     Defining concepts ensures conceptual clarity and prevents misunderstandings.
 
 ### Logical structure of the main part
@@ -193,7 +201,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 -   **Chapters build logically on each other**\
     Each chapter should contribute to developing the central argument step by step.
 -   **Clear relationships between chapters**\
-    Transitions should show how each part relates to the overall research question.
+    Transitions should show how each chapter relates to the overall research question.
 -   **Visible “red thread”**\
     A coherent line of reasoning must be identifiable throughout the paper.
 
@@ -211,24 +219,61 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 ### Use of cases and literature
 
 -   **Case studies are used appropriately**\
-    Cases should serve as evidence and help illustrate theoretical points.
+    Cases should serve as evidence and help illustrate theoretical points. Therefore their selection must be justified.
 -   **Independence of argumentation**\
     The paper should present the student’s own analysis, not just a summary of what others have written.
 -   **Ambiguities and limitations are clearly labelled**\
-    Acknowledging uncertainties is part of critical academic writing.
+    Acknowledging uncertainties is part of critical academic writing. Ambiguities - like contradictory definitons in the literature - should be discussed openly, showing the reader that the author is aware of these complexities.
 -   **Critical appraisal of the literature**\
-    Literature should not be taken as fact; authors must engage with it critically and reflectively.
+    Literature should not be taken as fact; authors must engage with it critically and reflectively. Sometimes different sources may present conflicting views - these should be discussed rather than ignored.
 
-------------------------------------------------------------------------
+# 2. Putting these Criteria into Practice
 
-# 2. Overall assessment and grading scheme
+Sooooo, this was quite a lot of information to take in at once. To help you get familiar with these criteria, we will now put them into practice by **reviewing a (fictional) seminar paper** based on the aspects discussed above. This review will form your second assignment for this course. 
 
-For the final grade:
+You will work on this review in the same **groups as in Assignment 1**. If you can't remember your group members, please check the list posted in MS Teams:
+🔗 (SME_Groups.xlsx)[https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78860/Shared%20Documents/General/SME_Groups.xlsx?d=w169b342e48d741248aabfa3053363f8c&csf=1&web=1&e=ZoDb5e]
 
--   each of the five dimensions (1–5) is graded with **0–5 points**\
--   you sum up all points (minimum 0, maximum 25):contentReference[oaicite:5]{index="5"}\
--   there is **no weighting** between dimensions – each counts equally\
--   the **cut for passing is 50%** of the maximum points  
+👉 Here is the seminar paper on "Theoretical Foundations of Circular Economy" you will be reviewing:
+**🔗 (Seminar Paper 2 Review)[el2_example_seminarpaper.pdf]**
+
+### 2.1 Your next Steps
+
+You are now in the role of a **reviewer**. Your task is to review this fictional seminar paper and justify your grading based on the criteria above.
+
+To so so, work through the following steps as a group:
+
+1.  **Read the seminar paper**
+    -   skim the paper once to get an overall impression\
+    -   then read more carefully, taking notes for each of the five dimensions
+2.  **Assess each dimension**
+    -   for each of the five dimensions
+        -   discuss strengths and weaknesses\
+        -   define **2–4 concrete arguments** that justify your grading refering to specific locations in the text (page / section)\
+        -   agree on a score between **0 and 5 points** for each dimension
+3.  **Calculate the overall score and grade**
+    -   sum up the points of all dimensions\
+    -   derive the final grade based on the grading scheme (see below)\
+    -   add a **short overall comment** (what is particularly good, what should be improved most)
+4.  **Group reflection (optional, but recommended)**
+    -   how easy or difficult was it to agree on points?\
+    -   which criteria were most important for you?\
+    -   what did you learn for your **own** work?
+
+# 2.2 Overall Assessment and Grading Scheme
+
+To calculate the final grade for the seminar paper, use the following scheme:
+
+-   each of the five assessment criteria (cf. chapter XXX) is graded with **0–5 points**\
+-   you sum up all points (minimum 0, maximum 25)
+-   there is **no weighting** between the assessment criteria – each counts equally\
+-   the **cut for passing is 50%** of the maximum points 
+
+This scheme results in the following relationship between overall points and grading:
+
+![Relationship between overall points and grading](/assets/img/points_grade_v1.jpg) 
+
+Based on this, use the following table to derive the final grade:
 
 | Points | Grade |
 | ------ | ----- |
@@ -238,15 +283,12 @@ For the final grade:
 | 19,0   | 2     |
 | 22,0   | 1     |
 
-> In your review, always connect your grading to **specific examples** from the text.
-
 # 3. Assignment 2 – Reviewing a seminar paper
 
 ### 3.1 Scenario
 
-You are now in the role of a **reviewer**. Your task is to **assess a (fictional) seminar paper** written for this course and to justify your grading based on the criteria above.
 
-You will work in the **same groups** as in Assignment 1.:contentReference[oaicite:6]{index="6"}
+
 
 ------------------------------------------------------------------------
 
@@ -263,7 +305,7 @@ The review template is structured along the **five assessment dimensions** and i
 
 ------------------------------------------------------------------------
 
-### 3.3 Your tasks
+### 3.3 Your next Steps
 
 Work through the following steps as a group:
 
@@ -288,7 +330,6 @@ Work through the following steps as a group:
     -   which criteria were most important for you?\
     -   what did you learn for your **own** seminar paper?
 
-------------------------------------------------------------------------
 
 ### 3.4 Deliverables
 
