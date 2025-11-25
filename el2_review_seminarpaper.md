@@ -250,32 +250,25 @@ To ensure **clear, logical and well-supported argumentation**, focus on the foll
 
 [text](assets/img/v1_The_Five_Rules.m4a)
 
-<video controls="" autoplay="" name="media">
-    <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
-</video>
-
-<video controls="" autoplay="" name="media2">
-    <source src="/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
-</video>
-
-<audio controls preload="none">
-  <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 <video controls="" autoplay="" name="media">
     <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
 </video>
 
-<video controls="" autoplay="" name="media2">
+<video controls autoplay="none" name="media2">
     <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mpeg">
 </video>
 
-# 2. Putting these Criteria into Practice
+# 2. Time for an Interim Conclusion
 
 Sooooo, this was quite a lot of information to take in at once. 
 
 ![Too much information!](/assets/img/too_much.gif)
+
+
+
+
+# 3. Reviewing and Grading a Seminar Paper 
 
 To help you get familiar with these criteria, we will now use them to **review and grade a (fictional) seminar paper**. 
 
@@ -350,7 +343,7 @@ Based on this, use the following table to derive the final grade:
 | 19,0   | 2- Good     |
 | 22,0   | 1 - Excellent     |
 
-# 3 Deliverable for your Second Assignment
+# 4 Deliverable for your Second Assignment
 
 Your **written review report** should be structured according to this template:
 
@@ -377,7 +370,7 @@ As a group, please complete the these steps to finalise your review report:
 > **👉 As always:**  
 > If you have questions, bring them up in our next class of post them in MS Teams.
 
-# What Now?
+# 5 What Now?
 
 We are done! Congratulations for finishing this electronic learning session! 🎉
 
