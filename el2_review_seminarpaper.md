@@ -117,7 +117,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 
 ---
 
-## Time for a short break!
+## 👉 Time for a short break! ☕
 
 But remember:
 
@@ -282,15 +282,15 @@ To so so, work through the **following steps** as a group:
     -   derive the final grade based on the grading scheme (cf. chapter 2.2 below)\
     -   add a **short overall comment** (what is particularly good, what should be improved most)
 4.  **Group reflection**
-    -   how easy or difficult was it to agree on points?\
-    -   which criteria were most important for you?\
+    -   how easy or difficult was it to agree on points?
+    -   which criteria were most important for you?
     -   what did you learn for your **own** work?
 
 > **👉 Tips for a good review**
-> -   be **specific** – always link comments to concrete parts of the paper\
-> -   be **constructive** – phrase weaknesses as suggestions for improvement\
-> -   be **consistent** – check if your points fit your written comments\
-> -   be **fair** – use the full scale (0–5) if justified\
+> -   be **specific** – always link comments to concrete parts of the paper
+> -   be **constructive** – phrase weaknesses as suggestions for improvement
+> -   be **consistent** – check if your points fit your written comments
+> -   be **fair** – use the full scale (0–5) if justified
 > -   think of the review you would like to receive for your own work
 > 
 > What do you think, professor?
@@ -301,9 +301,9 @@ To so so, work through the **following steps** as a group:
 
 To calculate the **final grade** for the seminar paper, use the following scheme:
 
--   each of the five quality criteria (cf. chapter 1) is graded with **0–5 points**\
+-   each of the five quality criteria (cf. chapter 1) is graded with **0 to 5 points**
 -   you sum up all points (minimum 0, maximum 25)
--   there is **no weighting** between the assessment criteria – each counts equally\
+-   there is **no weighting** between the assessment criteria – each counts equally
 -   the **cut for passing is 50%** of the maximum points 
 
 This scheme results in the following relationship between overall points and grading:
