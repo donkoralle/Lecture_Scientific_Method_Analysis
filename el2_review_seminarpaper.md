@@ -241,6 +241,13 @@ To ensure **clear, logical and well-supported argumentation**, focus on the foll
 -   **Critical appraisal of the literature**\
     Literature should not be taken as fact; authors must engage with it critically and reflectively. Sometimes different sources may present conflicting views - these should be discussed rather than ignored.
 
+# XXX. Time for a Interim Conclusion
+
+<audio controls>
+  <source src="/assets/v1_The_Five_Rules_For_Writing_Great_Papers.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
+
 # 2. Putting these Criteria into Practice
 
 Sooooo, this was quite a lot of information to take in at once. 
