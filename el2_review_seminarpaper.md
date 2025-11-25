@@ -115,6 +115,16 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 -   **Interpretation of figures, tables and maps is clear and meaningful**\
     Readers should understand how the data contributes to the research question and what conclusions can be drawn.
 
+---
+
+## Time for a short break!
+
+But remember:
+
+![Doing great - meaaauuuu!](/assets/img/doing_great_cat.jpg)
+
+---
+
 ## 1.3 Outline and General Structure: Logical and Coherent
 
 In order to achieve a **logical and coherent outline and general structure**, focus on the following aspects:
