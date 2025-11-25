@@ -17,8 +17,8 @@ In other words: by learning how to **review** a seminar paper, you also learn ho
 
 After completing this session, you will be able to
 
--   identify **key quality criteria** of a seminar paper\
--   apply **formal assessment **criteria to a concrete example\
+-   identify **key quality criteria** of a seminar paper
+-   apply **formal assessment** criteria to a concrete example
 -   **justify your review** and grading decisions in a transparent and structured way
 -   use these insights to **improve your own writing skills**
 
@@ -32,13 +32,13 @@ After completing this session, you will be able to
 
 In this chapter, we present the **detailed criteria used to review and grade seminar papers** in this course. These criteria are designed to ensure that your work meets high academic standards and effectively communicates your findings. In the following chapters, we break down each of these five criteria into specific aspects that you should consider when writing and reviewing seminar papers:
 
-**1.  Report design:** Clear and appealing layout
-**2.  Scientific formalities:** Correct and consistent
-**3.  Outline and general structure:** Logical and coherent
-**4.  Introduction and conclusion:** Well-developed and coordinated
-**5.  Argumentation:** Clear, logical and well-supported
+1. **Report design:** Clear and appealing layout
+2. **Scientific formalities:** Correct and consistent
+3. **Outline and general structure:** Logical and coherent
+4. **Introduction and conclusion:** Well-developed and coordinated
+5. **Argumentation:** Clear, logical and well-supported
 
-## 1.1 Report Design: Clear and appealing layout
+## 1.1 Report Design: Clear and appealing Layout
 
 To come up with a clear and appealing **report design**, pay attention to the following aspects:
 
@@ -117,7 +117,7 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 
 ## 1.3 Outline and General Structure: Logical and Coherent
 
-in order to achieve a **logical and coherent outline and general structure**, focus on the following aspects:
+In order to achieve a **logical and coherent outline and general structure**, focus on the following aspects:
 
 ### Table of Contents
 
@@ -239,17 +239,23 @@ Sooooo, this was quite a lot of information to take in at once.
 
 To help you get familiar with these criteria, we will now use them to **review and grade a (fictional) seminar paper**. 
 
-**📢 And yes: **This review and grading will be your second assignment for this course!
+**📢 And yes:** This review and grading will be your second assignment for this course!
 
 You will work on this review in the same **groups as in Assignment 1**. If you can't remember your group members, please check the list posted in MS Teams:
-🔗 [SME_Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78860/Shared%20Documents/General/SME_Groups.xlsx?d=w169b342e48d741248aabfa3053363f8c&csf=1&web=1&e=ZoDb5e)
+🔗 **[SME_Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78860/Shared%20Documents/General/SME_Groups.xlsx?d=w169b342e48d741248aabfa3053363f8c&csf=1&web=1&e=ZoDb5e)**
 
 👉 Here is the seminar paper on "Theoretical Foundations of Circular Economy" you will be reviewing and grading:
 **🔗 [Seminar Paper 2 Review](el2_example_seminarpaper.pdf)**
 
 ### 2.1 Your next Steps
 
-You are now in the role of a **reviewer**. Your task is to review this fictional seminar paper and justify your grading based on the quality criteria we discussed above (cf. chapter 1).
+You are now in the role of a **reviewer**. Just think of yourself as a professor of your choice:
+
+![Professor](assets/img/prof.gif)
+
+Okay, maybe not exactly like this ... but you get the idea.
+
+ Your task is to **review** this fictional seminar paper and **justify your grading** based on the quality criteria we discussed above (cf. chapter 1).
 
 To so so, work through the **following steps** as a group:
 
@@ -259,7 +265,7 @@ To so so, work through the **following steps** as a group:
 2.  **Assess each of the five quality criteria**
     -   for each of the five criteria
         -   discuss strengths and weaknesses\
-        -   define **2–4 concrete arguments** that justify your grading referring to specific locations in the text (page / section)\
+        -   define **2 to 4 concrete arguments** that justify your grading referring to specific locations in the text (page / section)\
         -   agree on a score between **0 and 5 points** for each dimension
 3.  **Calculate the overall score and grade**
     -   sum up the points of all dimensions\
@@ -276,10 +282,14 @@ To so so, work through the **following steps** as a group:
 > -   be **consistent** – check if your points fit your written comments\
 > -   be **fair** – use the full scale (0–5) if justified\
 > -   think of the review you would like to receive for your own work
+> 
+> What do you think, professor?
+
+![These tips make me cry](assets/img/displeased_snape.gif)
 
 # 2.2 Overall Assessment and Grading Scheme
 
-To calculate the final grade for the seminar paper, use the following scheme:
+To calculate the **final grade** for the seminar paper, use the following scheme:
 
 -   each of the five quality criteria (cf. chapter 1) is graded with **0–5 points**\
 -   you sum up all points (minimum 0, maximum 25)
@@ -302,7 +312,7 @@ Based on this, use the following table to derive the final grade:
 
 # 3 Deliverable for your Second Assignment
 
-Your **written review report** should be structured according to the following template:
+Your **written review report** should be structured according to this template:
 
 | What?                             | Length        |
 | --------------------------------- | ------------- |
@@ -316,9 +326,10 @@ Your **written review report** should be structured according to the following t
 | Over all Impression & Points      | ~ 0.5 page    |
 | Group reflection                  | ~ 0.5 page    |
 
-As a group, please complete the following steps to finalise your review report:
+As a group, please complete the these steps to finalise your review report:
 
 -   You submit **one PDF file per group**:
+    -   A4 format, portrait orientation
     -   file name: `G1_review.pdf`, `G2_review.pdf`, … (depending on your group)
 -   Upload your file to **Teams** in the folder `2 Assignment`
 -   **📅 Deadline: 02.02.2025, 23:59**   
