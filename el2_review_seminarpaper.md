@@ -1,11 +1,11 @@
 ---
-title: Electronic Learning Session 2: Reviewing a Seminar Paper
+title: Electronic Learning Session 2: Reviewing (and Grading) a Seminar Paper
 author: Kami Hoferl
 date: 2025-11-19
 layout: page
 ---
 
-# Electronic Learning Session 2: Reviewing a Seminar Paper
+# Electronic Learning Session 2: Reviewing (and Grading) a Seminar Paper
 
 This self-guided e-learning activity prepares you to **critically review a seminar paper** using a transparent set of assessment criteria.
 
@@ -259,7 +259,7 @@ You will work on this review in the same **groups as in Assignment 1**. If you c
 
 ### 2.1 Your next Steps
 
-You are now in the role of a **reviewer**. Just think of yourself as a professor of your choice:
+You are now in the role of a **reviewer**. Just imagine that you are a professor of your choosing:
 
 ![Professor](assets/img/prof.gif)
 
@@ -342,7 +342,7 @@ As a group, please complete the these steps to finalise your review report:
     -   A4 format, portrait orientation
     -   file name: `G1_review.pdf`, `G2_review.pdf`, … (depending on your group)
 -   Upload your file to **Teams** in the folder `2 Assignment`
--   **📅 Deadline: 02.02.2025, 23:59**   
+-   **📅 Deadline: January 13th, 2026; 23:59**   
 
 > **👉 As always:**  
 > If you have questions, bring them up in our next class of post them in MS Teams.
