@@ -247,7 +247,7 @@ Sooooo, this was quite a lot of information to take in at once.
 
 ![Too much information!](/assets/img/too_much.gif)
 
-Then let's briefly recap the **five quality criteria** we just discussed. And since we are a little bit tired by now, we do this in a more relaxed way – with a short audio clip (be patient, it may take a few seconds to load):
+Then let's **briefly recap the five quality criteria** we just discussed. And since we are a little bit tired by now, we do this in a more relaxed way – with a short **audio clip** (be patient, it may take a few seconds to load):
 
 <audio controls preload="none" name="media">
     <source src="https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/assets/img/v1_The_Five_Rules.m4a" type="audio/mp4">
