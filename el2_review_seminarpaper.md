@@ -119,8 +119,6 @@ To ensure **scientific formalities** are correctly and consistently applied, con
 
 ## 👉 Time for a short break! ☕
 
-But remember:
-
 ![Doing great - meaaauuuu!](/assets/img/doing_great_cat.jpg)
 
 ---
