@@ -13,7 +13,8 @@ This repository contains materials used in the course taught at the [IMC Univers
 - `el1_zotero_bib_v1.pdf` – Example bibliography for 🔗 [Electronic Learning Session 1](https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/el1_zotero)
 - `el1_zotero.md` – 🔗 [Electronic learning session 1](https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/el1_zotero) on managing literature with Zotero
 - `el2_review_seminarpaper.md` – 🔗 [Electronic learning session 2](https://donkoralle.github.io/Lecture_Scientific_Method_Analysis/el2_review_seminarpaper) on reviewing & grading seminar papers
-- `el2_review_seminarpaper.pdf` – Example seminar paper for review exercise in Electronic Learning Session 2
+- - `el2_review_seminarpaper.docx` – Example seminar paper for review exercise in Electronic Learning Session 2
+- `el2_review_seminarpaper.pdf` – Example seminar paper (PDF) for review exercise in Electronic Learning Session 2
 - `README.md` – This file
 - `syllabus.pdf` – Course description and learning outcomes  
 
