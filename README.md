@@ -25,7 +25,7 @@ This repository contains materials used in the course taught at the [IMC Univers
 - **Title:** Scientific Method and Analysis
 - **Author(s):** Kami Höferl
 - **Institution:** IMC University of Applied Sciences Krems  
-- **Semester:** WS 24-25  
+- **Semester:** WS 25-26  
 - **Language:** English  
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
